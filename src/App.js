@@ -12,7 +12,11 @@ export default function App() {
         <footer className="App-footer">
           <small>
             Coded by Whitney Wiles, Open Sourced on{" "}
-            <a href="https://github.com/whvtitiz/project-dictionary">GitHub</a>
+            <a href="https://github.com/whvtitiz/project-dictionary">GitHub</a>{" "}
+            and hosted on{" "}
+            <a href="https://resplendent-pegasus-ebbb31.netlify.app/">
+              Netlify
+            </a>
           </small>
         </footer>
       </div>
