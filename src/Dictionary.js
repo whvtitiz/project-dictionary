@@ -42,7 +42,7 @@ export default function Dictionary(props) {
             />
           </form>
           <div className="hint">
-            suggested words: gratitude, sunset, yoga...{" "}
+            suggested words: gratitude, sunset, coding...{" "}
           </div>
         </section>
         <Results results={results} />
